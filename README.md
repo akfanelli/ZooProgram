@@ -3,7 +3,7 @@
 ## Zoo Upgrade
 Final Project for Programming with Java Certification from Amazon and builds on top of Creating A Zoo
 
-### Task 
+### Task 1
 - Serialize Tiger, Dolphin, and Penguin classes
 
 ### Task 2
